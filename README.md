@@ -1,4 +1,4 @@
-<h1>Google Search homepage recreation<h1>
+<h1>Google Search homepage recreation</h1>
 
 This project is a recreation of Google Search's homepage.
 
